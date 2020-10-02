@@ -1,0 +1,13 @@
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.exe
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.deps.json
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.runtimeconfig.json
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.runtimeconfig.dev.json
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.dll
+C:\Users\Allison Taofeek\source\repos\GsPractice\bin\Debug\netcoreapp3.1\GsPractice.pdb
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.csprojAssemblyReference.cache
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.AssemblyInfoInputs.cache
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.AssemblyInfo.cs
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.dll
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.pdb
+C:\Users\Allison Taofeek\source\repos\GsPractice\obj\Debug\netcoreapp3.1\GsPractice.genruntimeconfig.cache
