@@ -181,6 +181,40 @@ namespace GsPractice
         }
 
 
+        
+         public   static int findLongestConseqSubseq(int[] arr, int n)
+            {
+            HashSet<int> S = new HashSet<int>();
+
+            for (int i = 0; i < n; i++)
+            {
+                S.Add(arr[i]);
+            }
+
+            int ans = 0;
+            
+            for (int i = 0; i < n; i++)
+            {
+                if (S.Contains(arr[i]))
+                {
+                   int j = arr[i];
+
+
+                    while (S.Contains(j))
+                    {
+                        j++;
+                    }
+                    ans = Math.Max(ans, j - arr[i]);
+                }
+            }
+
+                        return ans;
+              
+
+
+            }
+
+
 
     }
 }

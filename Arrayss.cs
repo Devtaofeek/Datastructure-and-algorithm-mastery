@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace GsPractice
 {
@@ -65,6 +66,8 @@ namespace GsPractice
             return -1;
 
         }
+
+      
         public void print()
         {
             for (int i = 0; i < count; i++)
